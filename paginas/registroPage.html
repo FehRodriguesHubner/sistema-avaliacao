@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+   <head>
+		<meta charset="utf-8">
+		<link type="text/css" rel="stylesheet" href="../css/estilo.css">
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css"/>
+		<script src="../js/bootstrap.min.js"></script>
+   </head>
+   
+   <body>
+			<p style="text-align:center;"><a href="../index.html"><img class="imgHeader" src="../img/mancada2.png" title="banner"/></a></p>
+			<div class="sticky cabecario">
+				<nav>
+					<ul style="padding-top:5.5px;">
+						<li><a href="../index.html" >Home</a></li>
+						<li><a href="#" >Conecte-se</a></li>
+						
+					</ul>
+				</nav>
+			</div>
+		<section>
+			<?php
+				require_once('livros.class.php');
+				$txt ="%{$_POST['txt']}%";
+				$livros = new Livros();
+				$pesquisa = $livros->pesquisa($txt);
+			?>
+		</section>
+   </body>
+</html>

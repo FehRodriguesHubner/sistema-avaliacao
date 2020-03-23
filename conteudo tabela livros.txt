@@ -1,0 +1,15 @@
+1- Revolução dos bichos	29.99	paginas/livro1.php	img/revo.jpg	
+	
+2- Como saber se seu gato está planejando matar você	15.99	paginas/livro2.php	img/gato.png		
+
+3- A Sociedade do espetáculo	16.99	paginas/livro3.php	img/debord.jpg		
+
+4- O Mundo de Platão	43.99	paginas/livro4.php	img/platon.jpg		
+
+5- Amor Para Corajosos	3.99	paginas/livro5.php	img/AmorParaCorajosos.jfif		
+
+6- Como eu era antes de você	4.99	paginas/livro6.php	img/ComoEuEraAntesDeVoce.jfif		
+
+7- O Diario da Nossa Paixão	6.99	paginas/livro7.php	img/oDiarioDaNossaPaixao.jfif		
+
+8- O Romantico Incurável	2.99	paginas/livro8.php	img/oRomanticoIncuravel.jfif
