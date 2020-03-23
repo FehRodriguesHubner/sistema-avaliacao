@@ -26,7 +26,7 @@
 			<input type="submit" name="submit" value="GO"/>
 			</form>
 			<br/>
-			<h1 >Confira nosso catálago:</h1>
+			<h1 >Confira o nosso catálago:</h1>
 			<br/>
 			<?php include('controller/indexView.php');
 				show();
